@@ -76,5 +76,7 @@ $info2 = "la fenêtre a une largeur de {$options["largeur"]} {$options["unité"]
 var_dump($info2);
 
 
+// var_dump saut de ligne  echo pas de saut de ligne donc besoin d'un <br>
+
 
 ?>
