@@ -1,6 +1,7 @@
 <?php
   require_once 'user.php';
-  require_once 'language.php';
+  require 'languages/language.php';
+  $language ='fr';
 
   $user = getUser();
   loadLanguage($user['language']);
