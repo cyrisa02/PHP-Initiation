@@ -1,6 +1,6 @@
 <?php
 
-function loadLang(string $language)
+function loadLanguage (string $language)
 {
     if ($language === 'fr') {
         require 'constants/text_fr.php';

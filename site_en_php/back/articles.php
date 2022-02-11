@@ -13,7 +13,7 @@
                 'description'=> 'A vous le 4K',
             ],
             [
-                'name' => 'Barette de RAM',
+                'name' => 'Barrettes de RAM',
                 'price' => 150,
                 'description'=> '16Go DDR4',
             ],
